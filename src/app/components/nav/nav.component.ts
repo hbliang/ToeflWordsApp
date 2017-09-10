@@ -9,10 +9,10 @@ import { WordService } from '../../services/word.service';
 })
 export class NavComponent implements OnInit {
 
-  private lists: string[];
-  private activeList: string;
+  public lists: string[];
+  public activeList: string;
 
-  private isOpenMenu: boolean;
+  public isOpenMenu: boolean;
   
   constructor(private wordService: WordService) {
     this.isOpenMenu = false;

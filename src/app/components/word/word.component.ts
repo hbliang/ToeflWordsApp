@@ -10,7 +10,7 @@ import { Word } from './word';
 })
 
 export class WordComponent implements OnInit {
-  private words: Word[];
+  public words: Word[];
 
   constructor(private yandexService: YandexService, private wordService: WordService) {
     this.wordService.words$.subscribe(words => this.words = words);

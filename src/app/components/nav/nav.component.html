@@ -1,0 +1,12 @@
+<md-toolbar color="primary">
+  <button md-icon-button [mdMenuTriggerFor]="isOpenMenu">
+    <md-icon>menu</md-icon>
+  </button>
+  <span>{{ activeList }}</span>
+</md-toolbar>
+<md-menu #isOpenMenu="mdMenu">
+  <button *ngFor="let list of lists" md-menu-item (click)="onSelectList(list)">
+      <md-icon>book</md-icon>
+      <span>{{ list }}</span>
+  </button>
+</md-menu>

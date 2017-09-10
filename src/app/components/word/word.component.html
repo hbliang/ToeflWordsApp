@@ -1,0 +1,7 @@
+<md-list>
+  <md-list-item *ngFor="let word of words" class="item" (click)="toggleTranslation(word)">
+     <md-icon [ngClass]="{'mat-primary': word.translation.length > 0}" md-list-icon >g_translate</md-icon>
+    <h4 md-line>{{ word.name }}</h4>
+    <p md-line> {{ word.translation | join }} </p> 
+  </md-list-item>
+</md-list>

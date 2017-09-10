@@ -1,0 +1,830 @@
+[
+    {
+        "name": "magnify",
+        "translation": []
+    },
+    {
+        "name": "inconspicuous",
+        "translation": []
+    },
+    {
+        "name": "disguise",
+        "translation": []
+    },
+    {
+        "name": "bark",
+        "translation": []
+    },
+    {
+        "name": "bias",
+        "translation": []
+    },
+    {
+        "name": "ether",
+        "translation": []
+    },
+    {
+        "name": "narrator",
+        "translation": []
+    },
+    {
+        "name": "discern",
+        "translation": []
+    },
+    {
+        "name": "dialect",
+        "translation": []
+    },
+    {
+        "name": "fracture",
+        "translation": []
+    },
+    {
+        "name": "estate",
+        "translation": []
+    },
+    {
+        "name": "intellectual",
+        "translation": []
+    },
+    {
+        "name": "discard",
+        "translation": []
+    },
+    {
+        "name": "automate",
+        "translation": []
+    },
+    {
+        "name": "cow",
+        "translation": []
+    },
+    {
+        "name": "nitric",
+        "translation": []
+    },
+    {
+        "name": "dehydrate",
+        "translation": []
+    },
+    {
+        "name": "barn",
+        "translation": []
+    },
+    {
+        "name": "nectar",
+        "translation": []
+    },
+    {
+        "name": "episode",
+        "translation": []
+    },
+    {
+        "name": "isotope",
+        "translation": []
+    },
+    {
+        "name": "diffuse",
+        "translation": []
+    },
+    {
+        "name": "exempt",
+        "translation": []
+    },
+    {
+        "name": "parasitic",
+        "translation": []
+    },
+    {
+        "name": "damp",
+        "translation": []
+    },
+    {
+        "name": "clarify",
+        "translation": []
+    },
+    {
+        "name": "feat",
+        "translation": []
+    },
+    {
+        "name": "lure",
+        "translation": []
+    },
+    {
+        "name": "conspicuous",
+        "translation": []
+    },
+    {
+        "name": "arduous",
+        "translation": []
+    },
+    {
+        "name": "attest",
+        "translation": []
+    },
+    {
+        "name": "assure",
+        "translation": []
+    },
+    {
+        "name": "bemoan",
+        "translation": []
+    },
+    {
+        "name": "fascinate",
+        "translation": []
+    },
+    {
+        "name": "intoxication",
+        "translation": []
+    },
+    {
+        "name": "extermination",
+        "translation": []
+    },
+    {
+        "name": "bluish",
+        "translation": []
+    },
+    {
+        "name": "debate",
+        "translation": []
+    },
+    {
+        "name": "pest",
+        "translation": []
+    },
+    {
+        "name": "percussion",
+        "translation": []
+    },
+    {
+        "name": "orderly",
+        "translation": []
+    },
+    {
+        "name": "kinetic",
+        "translation": []
+    },
+    {
+        "name": "friendliness",
+        "translation": []
+    },
+    {
+        "name": "despondent",
+        "translation": []
+    },
+    {
+        "name": "astounding",
+        "translation": []
+    },
+    {
+        "name": "equatorial",
+        "translation": []
+    },
+    {
+        "name": "demise",
+        "translation": []
+    },
+    {
+        "name": "keen",
+        "translation": []
+    },
+    {
+        "name": "bean",
+        "translation": []
+    },
+    {
+        "name": "elongate",
+        "translation": []
+    },
+    {
+        "name": "coin",
+        "translation": []
+    },
+    {
+        "name": "methane",
+        "translation": []
+    },
+    {
+        "name": "oversee",
+        "translation": []
+    },
+    {
+        "name": "fraction",
+        "translation": []
+    },
+    {
+        "name": "customary",
+        "translation": []
+    },
+    {
+        "name": "deprive",
+        "translation": []
+    },
+    {
+        "name": "beat",
+        "translation": []
+    },
+    {
+        "name": "bomogeneous",
+        "translation": []
+    },
+    {
+        "name": "inherit",
+        "translation": []
+    },
+    {
+        "name": "fame",
+        "translation": []
+    },
+    {
+        "name": "dormancy",
+        "translation": []
+    },
+    {
+        "name": "alloy",
+        "translation": []
+    },
+    {
+        "name": "ingredient",
+        "translation": []
+    },
+    {
+        "name": "optical",
+        "translation": []
+    },
+    {
+        "name": "plaster",
+        "translation": []
+    },
+    {
+        "name": "parade",
+        "translation": []
+    },
+    {
+        "name": "meteorologist",
+        "translation": []
+    },
+    {
+        "name": "compromise",
+        "translation": []
+    },
+    {
+        "name": "friction",
+        "translation": []
+    },
+    {
+        "name": "celsius",
+        "translation": []
+    },
+    {
+        "name": "hormone",
+        "translation": []
+    },
+    {
+        "name": "boil",
+        "translation": []
+    },
+    {
+        "name": "freeze",
+        "translation": []
+    },
+    {
+        "name": "penchant",
+        "translation": []
+    },
+    {
+        "name": "homemaking",
+        "translation": []
+    },
+    {
+        "name": "fare",
+        "translation": []
+    },
+    {
+        "name": "earthware",
+        "translation": []
+    },
+    {
+        "name": "boast",
+        "translation": []
+    },
+    {
+        "name": "fatal",
+        "translation": []
+    },
+    {
+        "name": "celluloid",
+        "translation": []
+    },
+    {
+        "name": "corpse",
+        "translation": []
+    },
+    {
+        "name": "cue",
+        "translation": []
+    },
+    {
+        "name": "inspection",
+        "translation": []
+    },
+    {
+        "name": "mediocre",
+        "translation": []
+    },
+    {
+        "name": "notable",
+        "translation": []
+    },
+    {
+        "name": "overlap",
+        "translation": []
+    },
+    {
+        "name": "alkaloid",
+        "translation": []
+    },
+    {
+        "name": "linear",
+        "translation": []
+    },
+    {
+        "name": "morally",
+        "translation": []
+    },
+    {
+        "name": "lizard",
+        "translation": []
+    },
+    {
+        "name": "chimney",
+        "translation": []
+    },
+    {
+        "name": "dictate",
+        "translation": []
+    },
+    {
+        "name": "ascend",
+        "translation": []
+    },
+    {
+        "name": "monopoly",
+        "translation": []
+    },
+    {
+        "name": "deciduous",
+        "translation": []
+    },
+    {
+        "name": "interrupt",
+        "translation": []
+    },
+    {
+        "name": "discrete",
+        "translation": []
+    },
+    {
+        "name": "gradient",
+        "translation": []
+    },
+    {
+        "name": "anticipate",
+        "translation": []
+    },
+    {
+        "name": "momentum",
+        "translation": []
+    },
+    {
+        "name": "girder",
+        "translation": []
+    },
+    {
+        "name": "aqueduct",
+        "translation": []
+    },
+    {
+        "name": "cellulose",
+        "translation": []
+    },
+    {
+        "name": "haul",
+        "translation": []
+    },
+    {
+        "name": "magnitude",
+        "translation": []
+    },
+    {
+        "name": "perceive",
+        "translation": []
+    },
+    {
+        "name": "brass",
+        "translation": []
+    },
+    {
+        "name": "narrative",
+        "translation": []
+    },
+    {
+        "name": "backdrop",
+        "translation": []
+    },
+    {
+        "name": "embed",
+        "translation": []
+    },
+    {
+        "name": "pillow",
+        "translation": []
+    },
+    {
+        "name": "devour",
+        "translation": []
+    },
+    {
+        "name": "bison",
+        "translation": []
+    },
+    {
+        "name": "constitute",
+        "translation": []
+    },
+    {
+        "name": "manure",
+        "translation": []
+    },
+    {
+        "name": "clinical",
+        "translation": []
+    },
+    {
+        "name": "barter",
+        "translation": []
+    },
+    {
+        "name": "contradictory",
+        "translation": []
+    },
+    {
+        "name": "iridium",
+        "translation": []
+    },
+    {
+        "name": "hieroglyphic",
+        "translation": []
+    },
+    {
+        "name": "execution",
+        "translation": []
+    },
+    {
+        "name": "huddle",
+        "translation": []
+    },
+    {
+        "name": "gibbon",
+        "translation": []
+    },
+    {
+        "name": "cavity",
+        "translation": []
+    },
+    {
+        "name": "genuine",
+        "translation": []
+    },
+    {
+        "name": "patent",
+        "translation": []
+    },
+    {
+        "name": "mediterranean",
+        "translation": []
+    },
+    {
+        "name": "calcareous",
+        "translation": []
+    },
+    {
+        "name": "instantly",
+        "translation": []
+    },
+    {
+        "name": "acute",
+        "translation": []
+    },
+    {
+        "name": "morphology",
+        "translation": []
+    },
+    {
+        "name": "condense",
+        "translation": []
+    },
+    {
+        "name": "communal",
+        "translation": []
+    },
+    {
+        "name": "nodule",
+        "translation": []
+    },
+    {
+        "name": "bilingual",
+        "translation": []
+    },
+    {
+        "name": "bushy",
+        "translation": []
+    },
+    {
+        "name": "longevity",
+        "translation": []
+    },
+    {
+        "name": "aggravating",
+        "translation": []
+    },
+    {
+        "name": "mussel",
+        "translation": []
+    },
+    {
+        "name": "hamper",
+        "translation": []
+    },
+    {
+        "name": "grandiose",
+        "translation": []
+    },
+    {
+        "name": "founder",
+        "translation": []
+    },
+    {
+        "name": "midair",
+        "translation": []
+    },
+    {
+        "name": "elegant",
+        "translation": []
+    },
+    {
+        "name": "curtain",
+        "translation": []
+    },
+    {
+        "name": "gland",
+        "translation": []
+    },
+    {
+        "name": "foliage",
+        "translation": []
+    },
+    {
+        "name": "identical",
+        "translation": []
+    },
+    {
+        "name": "celestial",
+        "translation": []
+    },
+    {
+        "name": "hay",
+        "translation": []
+    },
+    {
+        "name": "contour",
+        "translation": []
+    },
+    {
+        "name": "patchiness",
+        "translation": []
+    },
+    {
+        "name": "landform",
+        "translation": []
+    },
+    {
+        "name": "delight",
+        "translation": []
+    },
+    {
+        "name": "frown",
+        "translation": []
+    },
+    {
+        "name": "nomadic",
+        "translation": []
+    },
+    {
+        "name": "ensuing",
+        "translation": []
+    },
+    {
+        "name": "cotta",
+        "translation": []
+    },
+    {
+        "name": "persist",
+        "translation": []
+    },
+    {
+        "name": "plight",
+        "translation": []
+    },
+    {
+        "name": "arousal",
+        "translation": []
+    },
+    {
+        "name": "needle",
+        "translation": []
+    },
+    {
+        "name": "cabin",
+        "translation": []
+    },
+    {
+        "name": "candle",
+        "translation": []
+    },
+    {
+        "name": "adorn",
+        "translation": []
+    },
+    {
+        "name": "epitome",
+        "translation": []
+    },
+    {
+        "name": "greenish",
+        "translation": []
+    },
+    {
+        "name": "myriad",
+        "translation": []
+    },
+    {
+        "name": "liberty",
+        "translation": []
+    },
+    {
+        "name": "meticulously",
+        "translation": []
+    },
+    {
+        "name": "influx",
+        "translation": []
+    },
+    {
+        "name": "megawatt",
+        "translation": []
+    },
+    {
+        "name": "pasture",
+        "translation": []
+    },
+    {
+        "name": "erectus",
+        "translation": []
+    },
+    {
+        "name": "pit",
+        "translation": []
+    },
+    {
+        "name": "evaluate",
+        "translation": []
+    },
+    {
+        "name": "perishable",
+        "translation": []
+    },
+    {
+        "name": "linguistic",
+        "translation": []
+    },
+    {
+        "name": "flax",
+        "translation": []
+    },
+    {
+        "name": "encroach",
+        "translation": []
+    },
+    {
+        "name": "inject",
+        "translation": []
+    },
+    {
+        "name": "foremost",
+        "translation": []
+    },
+    {
+        "name": "depart",
+        "translation": []
+    },
+    {
+        "name": "auditorium",
+        "translation": []
+    },
+    {
+        "name": "depart",
+        "translation": []
+    },
+    {
+        "name": "fodder",
+        "translation": []
+    },
+    {
+        "name": "melody",
+        "translation": []
+    },
+    {
+        "name": "exuberant",
+        "translation": []
+    },
+    {
+        "name": "commission",
+        "translation": []
+    },
+    {
+        "name": "antennae",
+        "translation": []
+    },
+    {
+        "name": "intimate",
+        "translation": []
+    },
+    {
+        "name": "goose",
+        "translation": []
+    },
+    {
+        "name": "onward",
+        "translation": []
+    },
+    {
+        "name": "algae",
+        "translation": []
+    },
+    {
+        "name": "impersonation",
+        "translation": []
+    },
+    {
+        "name": "cite",
+        "translation": []
+    },
+    {
+        "name": "beast",
+        "translation": []
+    },
+    {
+        "name": "fern",
+        "translation": []
+    },
+    {
+        "name": "medieval",
+        "translation": []
+    },
+    {
+        "name": "peninsula",
+        "translation": []
+    },
+    {
+        "name": "integrity",
+        "translation": []
+    },
+    {
+        "name": "dwarf",
+        "translation": []
+    },
+    {
+        "name": "comprise",
+        "translation": []
+    },
+    {
+        "name": "bond",
+        "translation": []
+    },
+    {
+        "name": "custom",
+        "translation": []
+    },
+    {
+        "name": "flesh",
+        "translation": []
+    },
+    {
+        "name": "fade",
+        "translation": []
+    }
+]
